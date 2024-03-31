@@ -1,0 +1,20 @@
+
+.pbox22{ width:35vh;
+    height: 60vh;
+  padding: 2px;
+    margin: 20px;
+    display:flex;
+    flex-direction: column;
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-sizing: border-box;
+}
+.header22 {
+  margin-top: 20px;
+  flex:2;
+  text-align: center;
+  box-sizing: border-box;
+
+}
+.nav22{
+  flex:4;
+}

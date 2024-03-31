@@ -1,0 +1,27 @@
+
+.container{ 
+    width: 100%;
+    display:flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.pbox{ width:35vh;
+    height: 86vh;
+  padding: 2px;
+    margin: 20px;
+    display:flex;
+    flex-direction: column;
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-sizing: border-box;
+}
+.header1 {
+  margin-top: 20px;
+  flex:2;
+  text-align: center;
+  box-sizing: border-box;
+
+}
+.nav{
+  flex:4;
+}

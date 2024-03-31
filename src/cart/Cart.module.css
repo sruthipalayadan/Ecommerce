@@ -1,0 +1,13 @@
+.containercard{ 
+    width: 100%;
+    display:flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.headbox{
+    width:100%;
+    height: 450px;
+    text-align: center;
+    padding-top: 200px;
+}

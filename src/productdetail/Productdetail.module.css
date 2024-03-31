@@ -1,0 +1,28 @@
+.box1{
+    width:100%;
+    height:650px;
+   padding-left: 200px;
+    margin-top: 30px;
+
+}
+.box2{ width:90vh;
+    height: 85vh;
+  padding: 10px;
+    margin: 20px;
+    display:flex;
+    flex-direction: column;
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-sizing: border-box;
+   
+}
+.header0{
+  margin-top: 20px;
+  flex:2;
+  text-align: center;
+  box-sizing: border-box;
+
+}
+.nav0{
+  flex:4;
+  padding: 5px;
+}
